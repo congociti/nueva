@@ -1,4 +1,4 @@
 nueva
 =====
 
-My first try at creating a website and hosted on github
+My first try at creating a website and hosting code on github
